@@ -1,0 +1,10 @@
+{
+  "name": "topN",
+  "version": "1.0.0",
+  "description": "Returns top N largest numbers in a file",
+  "main": "index.js",
+  "dependencies": {
+    "mocha": "2.0.1"
+  },
+  "author": "Jason Marah"
+}
